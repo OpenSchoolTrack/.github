@@ -1,14 +1,2 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-OpenSchoolTrack provide open source tools to create school management softwares with minimal effort.
+As the creators of OpenSchoolTrack, we have set our sights on a lofty goal - to develop a comprehensive suite of tools that can streamline the management of school software. Our vision encompasses backend APIs constructed using Rust, as well as SDKs to support multiple programming languages. Additionally, we plan to incorporate user interface utility components that are compatible with popular UI frameworks such as ReactJS and Vue, among others. By bringing together such a diverse array of resources, we hope to create something truly meaningful for the education community.
